@@ -1,0 +1,40 @@
+Ticker,Total Return (%),Ann. Volatility (%),Sharpe Ratio (rf=5%)
+SPCX,14.52,208.39,3.21
+QQQ,3.28,34.51,4.72
+SPCX (hourly),14.52,196.3,3.64
+
+Here is a written narrative based on the analysis.
+
+---
+
+## SpaceX IPO (SPCX) Performance: 11–22 June 2026
+
+*(Benchmark: QQQ daily data downloaded 2026-06-24)*
+
+### The IPO Pop
+
+SpaceX priced its IPO at $135 per share. The first trade on 12 June opened at $164.97 — an immediate **22.2% IPO pop**. That single hour delivered the bulk of the entire first-week return.
+
+### The Full Window: +14.52% in Six Trading Days
+
+From the $135 offer to the final 16:00 close on 22 June at $154.60, an IPO subscriber who held would have gained **$19.60 per share (+14.52%)**. Over the same calendar window, QQQ returned +3.28%.
+
+| Ticker | Total Return | Ann. Volatility | Sharpe (rf=5%) |
+|--------|-------------|----------------|---------------|
+| SPCX | +14.52% | 208.39% | 3.21 |
+| QQQ | +3.28% | 34.51% | 4.72 |
+
+### Volatility: The Cost of the Pop
+
+The 208% annualised volatility is dramatic, but it reflects two facts: (1) the 22% first-hour return is an extreme outlier on an hourly basis, and (2) annualising from just 6 days of data massively amplifies any observed variance. In practice, SPCX saw intraday swings of 3–9% throughout the week (e.g., the 9.9% gap-down on 22 June open).
+
+The 5-minute return distribution shows a mean near zero with fat tails — frequent moves of ±1–2% in five-minute intervals — characteristic of a heavily traded, high-attention stock in its debut week.
+
+### Sharpe Ratio: Impressive Raw Return, Low Risk-Adjusted Edge
+
+SPCX's Sharpe ratio of 3.21 versus QQQ's 4.72 tells an important story: after subtracting the 5% risk-free rate and scaling by the extreme volatility, SPCX offered a *lower* reward-per-unit-of-risk than a diversified tech benchmark. The IPO pop makes the absolute return look excellent, but the wild daily swings mean a risk-averse investor would have preferred QQQ on a risk-adjusted basis.
+
+### Narrative Summary
+
+SpaceX's debut was a clear success for IPO subscribers, who saw an immediate 22% gain and ended the week up 14.5%. However, the stock was exceptionally volatile — the first-day pop was followed by several sharp drawdowns (notably a 9.7% weekly close on 18 June and a -9.9% gap-down on 22 June). Against QQQ, the Nasdaq-100 proxy, SPCX outperformed in raw terms (14.5% vs 3.3%) but underperformed on a risk-adjusted basis (Sharpe 3.2 vs 4.7). Whether it was a "good investment" depends on the investor: a flipper who sold after the pop did very well; a buy-and-hold investor took on significantly more volatility than the broad market for a modestly higher single-week return.
+
